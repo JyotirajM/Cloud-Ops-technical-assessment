@@ -10,7 +10,7 @@
 - **Assessment Level Submitted:** Level 1 only
 - **Level 2 Option Chosen (if any):** N/A
 - **GitHub Repo Link:** https://github.com/JyotirajM/Cloud-Ops-technical-assessment.git
-- **Demo Video Link (optional but recommended):** [Optional]
+- **Demo Video Link (optional but recommended):** https://drive.google.com/file/d/1o-C-KCcSZjKUpT0kyDYIv6BsmjUr1_vY/view?usp=sharing
 - **Submission Date (UTC):** 11/03/2026
 
 ---
