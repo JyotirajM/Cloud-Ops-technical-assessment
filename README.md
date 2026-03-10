@@ -1,1 +1,0 @@
-# Cloud-Ops-technical-assessment
