@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+events.db
+.env
+.git
