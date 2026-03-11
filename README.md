@@ -62,7 +62,7 @@ skynet-ops-audit-service/
 ### 1. Clone and install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/JyotirajM/Cloud-Ops-technical-assessment
 cd skynet-ops-audit-service
 
 # Create virtual environment
